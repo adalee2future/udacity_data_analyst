@@ -29,7 +29,8 @@ def shape_element(element):
         address = {}
         for tag_elem in element.iter('tag'):
             key, val = tag_elem.attrib['k'], tag_elem.attrib['v']
-            if problemchars.search(key) or key == "type":# or already find key = "node", don't add these
+            # don't add problematic items, and dont update "type", "type" has already been "node" or "way"
+            if problemchars.search(key) or key == "type":
                 continue
             if lower.search(key):
                 node[key] = val
