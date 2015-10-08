@@ -1,0 +1,5 @@
+Could not correct postcode "21351", please investigate manually.
+Audit postcode: "201315 上海" --> "201315"
+Audit postcode: "201315 上海" --> "201315"
+Could not correct postcode "20032", please investigate manually.
+Could not correct postcode "20032", please investigate manually.
