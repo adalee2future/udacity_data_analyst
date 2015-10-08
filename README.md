@@ -5,4 +5,6 @@ My projects on udacity Data Analyst Nanodegree
 
 * [P1 Test a Perceptual Phenomenon](http://adalee2future.github.io/udacity_data_analyst/P1%20Test%20a%20Perceptual%20Phenomenon.html)
 
-* [P2 Analyzing the NYC Subway Dataset](http://adalee2future.github.io/udacity_data_analyst//P2%20Analyzing%20the%20NYC%20Subway%20Dataset.html)
+* [P2 Analyzing the NYC Subway Dataset](http://adalee2future.github.io/udacity_data_analyst/P2%20Analyzing%20the%20NYC%20Subway%20Dataset.html)
+
+* [P3 Wrangle OpenStreetMap Data](http://adalee2future.github.io/udacity_data_analyst/P3_Wrangle_OpenStreetMap_Data.pdf)
