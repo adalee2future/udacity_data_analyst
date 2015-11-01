@@ -8,3 +8,5 @@ My projects on [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/
 * [P3 Wrangle OpenStreetMap Data](http://adalee2future.github.io/udacity_data_analyst/P3_Wrangle_OpenStreetMap_Data.pdf)
 
 * [P4 Explore and Summarize Data](http://adalee2future.github.io/udacity_data_analyst/P4_Explore_and_Summarize_White_Wine_Data.html)
+
+* [P5 Identifying Fraud from Enron Email](http://adalee2future.github.io/udacity_data_analyst/P5_Identifying_Fraud_from_Enron_Email.pdf)
