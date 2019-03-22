@@ -1,6 +1,8 @@
-# [udacity_data_analyst]
+## Udacity Data Analyst Nanodegree
 
-## My projects on [Udacity Data Analyst Nanodegree](http://adalee2future.github.io/udacity_data_analyst/certificate.pdf)
+[My Certificate (2015-12-29)](http://adalee2future.github.io/udacity_data_analyst/certificate.pdf)
+
+### My Projects
 
 * [P1 Test a Perceptual Phenomenon](http://adalee2future.github.io/udacity_data_analyst/P1%20Test%20a%20Perceptual%20Phenomenon.html)
 * [P2 Analyzing the NYC Subway Dataset](http://adalee2future.github.io/udacity_data_analyst/P2%20Analyzing%20the%20NYC%20Subway%20Dataset.html)
